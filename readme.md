@@ -6,7 +6,7 @@
 
 ## 목차
 
-- [Ch1. 기초 사항]
+- [Ch1. 기초 사항](https://github.com/ningpop/C-plus-plus-Study/tree/master/ch1)
 - [Ch2. 제어 구조와 배열]
 - [Ch3. 함수와 문자열]
 - [Ch4. 클래스와 객체]
