@@ -14,7 +14,7 @@
 - [Chapter 6. 객체 배열과 벡터](https://github.com/ningpop/C-plus-plus-Study/tree/master/Ch06)
 - [Chapter 7. SFML로 작성해보는 프로젝트 1]
 - [Chapter 8. 포인터와 동적객체 생성](https://github.com/ningpop/C-plus-plus-Study/tree/master/Ch08)
-- [Chapter 9. 복사생성자와 정적 멤버]
+- [Chapter 9. 복사생성자와 정적 멤버](https://github.com/ningpop/C-plus-plus-Study/tree/master/Ch09)
 - [Chapter 10. 연산자 중복과 프렌드 함수]
 - [Chapter 11. 상속]
 - [Chapter 12. 다형성과 가상 함수]
